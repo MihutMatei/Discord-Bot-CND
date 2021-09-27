@@ -10,9 +10,12 @@
     "type": "git",
     "url": "https://github.com/N0bmaster/Discord-Bot-Robotica.git"
   },
-
+  "keywords": [],
   "author": "Matei",
   "license": "ISC",
+  "bugs":{
+    "url": "https://github.com/N0bmaster/Discord-Bot-Robotica/issues"
+  },
   "dependencies": {
     "discord.js": "^12.2.0"
   }
