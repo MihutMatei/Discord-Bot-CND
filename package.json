@@ -9,9 +9,9 @@
   "repository":{
     "type": "git",
     "url": "https://github.com/N0bmaster/Discord-Bot-Robotica.git"
-  }
+  },
 
-  "author": "",
+  "author": "Matei",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.2.0"
