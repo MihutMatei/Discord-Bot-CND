@@ -4,9 +4,14 @@
   "description": "bot",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start" : "node main.js"
   },
-  "author": "Matei",
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/N0bmaster/Discord-Bot-Robotica.git"
+  }
+
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.2.0"
