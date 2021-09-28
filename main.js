@@ -27,7 +27,7 @@ client.on('guildMemberAdd', guildMember =>{
     let welcomeRole = guildMember.guild.roles.cache.find(role => role.name === 'membru');
 
     guildMember.roles.add(welcomeRole)
-    guildMember.guild.channels.cache.get('860943776246923347').send(`Bine ai venit in echipa de robotica <@${guildmember.user.id}>`)
+    guildMember.guild.channels.cache.get('860943776246923347').send(`Bine ai venit in echipa de robotica <@${guildMember.user.id}>`)
 });
 
 client.on('message', message =>{
