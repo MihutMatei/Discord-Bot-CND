@@ -69,4 +69,4 @@ client.on('message', message =>{
 
 var port = process.env.PORT || 8080;
 
-client.login('ODkxNzIwNjI1OTY0NjA1NDUx.YVCdjA.fzVk0BlthyZCeFyHDhPG2phOpXQ');
+client.login('ODkxNzIwNjI1OTY0NjA1NDUx.Gpjd80.PLYXLyLj1BTRG0GGLQg1expCXl14thHdG8085c');
